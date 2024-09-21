@@ -5,11 +5,11 @@ print("Awesome, " + str(age) + " is a cool age! I'm 17 myself.")
 
 def response(answer):
     if answer == 1:
-        print("Placeholder")
+        print("Placeholder Option 1")
     elif answer == 2:
-        print("Placeholder")
+        print("Placeholder Option 2")
     elif answer == 3: 
-        print("Placeholder")
+        print("Placeholder Option 3")
     elif answer == 4:
         print("Goodbye " + name + ", have a great day!")
 
